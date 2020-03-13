@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2d87489ab5cb4f00aba37a809710cab
+timeCreated: 1512975086
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - impactClip: {fileID: 8300000, guid: fa7e275faa6719347a6bec5d38bfdcdf, type: 3}
+  - boulderSoundClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
